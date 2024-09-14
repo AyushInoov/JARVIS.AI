@@ -4,8 +4,11 @@ JARVIS.AI is an advanced Python-based virtual assistant designed to simplify eve
 
 Features
 Voice Command Recognition: Responds to a variety of voice commands for executing tasks.
+
 Music Playback: Plays songs based on voice requests, integrating with your preferred music services.
+
 News Updates: Provides the latest news headlines based on voice queries.
+
 Customizable Functionality: Easily extendable to add new features and commands.
 
 Activate the Virtual Environment:
